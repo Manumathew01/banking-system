@@ -1,0 +1,12 @@
+
+@media screen and (max-width: 720px) {
+  .container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .customer-container {
+    max-width: 80%;
+    font-size: 14px;
+  }
+}
